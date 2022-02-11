@@ -106,3 +106,6 @@ dist
 # Editor file
 .idea
 .vscode
+
+# Mac file
+.DS_Store
